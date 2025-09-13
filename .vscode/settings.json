@@ -1,8 +1,0 @@
-{
-    "java.project.sourcePaths": [
-        ".",
-        "Application"
-    ],
-    "java.project.referencedLibraries": [],
-    "java.format.settings.url": ".vscode/java-formatter.xml"
-}
